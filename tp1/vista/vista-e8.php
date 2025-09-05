@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="resultadoForm.php" method="GET">
+    <form action="../control/contro-e8.php" method="GET">
             <label for="edad">Ingrese su edad</label>
             <input type="number" name="edad" id="edad" required><br><br>
             <label for="tipoCliente">Usted es Estudiante?</label>

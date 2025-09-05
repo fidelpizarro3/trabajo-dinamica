@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>Calculadora</h1>
-    <form action="resultado.php" method="GET">
+    <form action="../control/contro-e7.php" method="GET">
         <label for="numeroA">Número A:</label>
         <input type="text" name="numeroA" id="numeroA" required><br><br>
 

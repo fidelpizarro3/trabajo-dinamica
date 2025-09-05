@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="resultados.php">
+    <form action="../control/contro-e5.php">
                 <!-- Nivel de estudios -->
         <p>Nivel de estudios:</p>
         <input type="radio" name="nivelEstudios" value="1" id="sinEstudios" required>

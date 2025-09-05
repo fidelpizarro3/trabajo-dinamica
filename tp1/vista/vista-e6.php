@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="deportesresultados.php">
+            <form action="../control/control-e6.php" method="post">
         <p>Nivel de estudios:</p>
         <input type="checkbox" name="deportes[]" value="Futbol" id="futbol" required>
         <label for="futbol">Futbol</label><br>

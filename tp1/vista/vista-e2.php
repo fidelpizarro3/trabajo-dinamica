@@ -7,7 +7,7 @@
 </head>
 <body>
     <h2>ingresar horas de cursada por dia</h2>
-    <form action="resultado.php" method="get">
+    <form action="../control/contro-e2.php" method="get">
         Lunes: <input type="number" name="lunes" required>  <br><br>
         Martes: <input type="number" name="martes" required>  <br><br>
         Miercoles: <input type="number" name="miercoles" required>  <br><br>

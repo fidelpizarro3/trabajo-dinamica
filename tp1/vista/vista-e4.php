@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="mayordeedad.php" method="get">
+    <form action="../control/contro-e4.php" method="get">
         <label for="nombre">Nombre:</label>
         <input type="text" id="nombre" name="nombre" required> <br> <br>
         <label for="apellido">Apellido:</label>

@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="mostrarform.php" method="post">
+    <form action="../control/contro-e3.php" method="post">
         <label for="nombre">Nombre:</label>
         <input type="text" id="nombre" name="nombre" required> <br> <br>
         <label for="apellido">Apellido:</label>
